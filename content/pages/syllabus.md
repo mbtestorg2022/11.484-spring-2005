@@ -38,7 +38,36 @@ There will be five cost-benefit analysis problem sets and two shorter memos. Lat
 
 The assignments will be graded according to the following weights:
 
-| ACTIVITIES | PERCENTAGEs |
-| --- | --- |
-| Five Problem Sets | 60% |
-| Two Written Assignments | 40%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGEs
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Written Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

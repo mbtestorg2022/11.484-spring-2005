@@ -18,12 +18,105 @@ There is no final examination in this course.
 
 The Assignments will be due on the following dates:
 
-| ASSIGNMENTS | TOPICS | DUE DATES |
-| --- | --- | --- |
-| Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps01)) | Financial Cash Flows from Alternative Perspectives | Session 6 |
-| Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps02)) | Discounting and Alternative Investment Criteria | Session 8 |
-| Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps03)) | Scale and Timing | Session 10 |
-| Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps_4_risk_case_m)) | Risk and Sensitivity Analysis | Session 13 |
-| Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps05)) | Economic Appraisal and Shadow Prices | Session 18 |
-| Case Study Memo ([PDF]({{< baseurl >}}/resources/case_study_memo)) | Critical Appraisal of an Appraisal Document | Session 23 |
-| Final Essay ([PDF]({{< baseurl >}}/resources/final_memo)) | Appraisal in the field | Session 26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps01))
+{{< tdclose >}}
+{{< tdopen >}}
+Financial Cash Flows from Alternative Perspectives
+{{< tdclose >}}
+{{< tdopen >}}
+Session 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps02))
+{{< tdclose >}}
+{{< tdopen >}}
+Discounting and Alternative Investment Criteria
+{{< tdclose >}}
+{{< tdopen >}}
+Session 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps03))
+{{< tdclose >}}
+{{< tdopen >}}
+Scale and Timing
+{{< tdclose >}}
+{{< tdopen >}}
+Session 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps_4_risk_case_m))
+{{< tdclose >}}
+{{< tdopen >}}
+Risk and Sensitivity Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Session 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps05))
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Appraisal and Shadow Prices
+{{< tdclose >}}
+{{< tdopen >}}
+Session 18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Study Memo ([PDF]({{< baseurl >}}/resources/case_study_memo))
+{{< tdclose >}}
+{{< tdopen >}}
+Critical Appraisal of an Appraisal Document
+{{< tdclose >}}
+{{< tdopen >}}
+Session 23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay ([PDF]({{< baseurl >}}/resources/final_memo))
+{{< tdclose >}}
+{{< tdopen >}}
+Appraisal in the field
+{{< tdclose >}}
+{{< tdopen >}}
+Session 26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
